@@ -166,9 +166,9 @@ Trek’s Emonda line is all about being as light and quick as possible. It is av
 </div>
 
 
-![crockett]({{ site.url }}{{ site.baseurl }}/assets/images/corkett.jpeg){: class="floatpic"}
+![crockett]({{ site.url }}{{ site.baseurl }}/assets/images/crockett.jpeg){: class="floatpic"}
 
-### Trek CrocketT 
+### Trek Crockett 
 
 The Crockett is Treks aluminum cyclocross bike, with the ability to be set up single speed as well. One of the shop favorites, it makes a great commuter, racer and gravel bike. We like this one!
 
